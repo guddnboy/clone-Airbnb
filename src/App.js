@@ -1,8 +1,10 @@
-import './App.css';
+import TopNavigator from './components/TopNavigator.js';
 
 function App() {
   return (
-    <div></div>
+    <div className='flex flex-col items-center justify-center'>
+      <TopNavigator />
+    </div>
   );
 }
 
