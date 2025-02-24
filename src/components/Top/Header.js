@@ -1,5 +1,6 @@
 import React from 'react';
-import CategoryFilter from './CategoryFilter';
+import CategoryFilter from '../CategoryFilter';
+import ChooseTypeButton from './ChooseTypeButton';
 
 function Header() {
   return (
@@ -12,7 +13,7 @@ function Header() {
             className='w-fit h-fit'
           ></img>
         </div>
-        <div>숙소 / 체험</div>
+        <ChooseTypeButton />
         <div>마이페이지</div>
       </div>
       <CategoryFilter />
