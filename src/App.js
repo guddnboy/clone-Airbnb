@@ -1,9 +1,10 @@
-import TopNavigator from './components/TopNavigator.js';
+import React from 'react';
+import HomePage from './pages/HomePage.jsx';
 
 function App() {
   return (
-    <div className='flex flex-col items-center justify-center'>
-      <TopNavigator />
+    <div>
+      <HomePage />
     </div>
   );
 }

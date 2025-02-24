@@ -1,11 +1,11 @@
 import React from 'react';
+import CategoryFilter from './CategoryFilter';
 
 function TopNavigator() {
   return (
-    <div className='bg-black'>
-      <div className='border-spacing-2 size-12'>
-        이곳에는 top-navigator가 위치합니다.
-      </div>
+    <div>
+      TopNavigator 입니다.
+      <CategoryFilter />
     </div>
   );
 }
