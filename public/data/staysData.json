@@ -1,101 +1,11 @@
 [
   {
-    "location": "서울, 대한민국",
-    "description": "한강이 보이는 모던한 아파트",
-    "date": "2025-03-15",
-    "review": "깨끗하고 조용한 숙소였어요!",
-    "price": 120000,
-    "image": "https://source.unsplash.com/featured/?house",
-    "recommended": true
-  },
-  {
-    "location": "부산, 대한민국",
-    "description": "해변 근처의 멋진 숙소",
-    "date": "2025-04-20",
-    "review": "바다가 한눈에 보이는 숙소입니다.",
-    "price": 150000,
-    "image": "https://source.unsplash.com/featured/?beach",
-    "recommended": false
-  },
-  {
-    "location": "제주, 대한민국",
-    "description": "조용한 시골 감성의 독채",
-    "date": "2025-05-10",
-    "review": "별이 쏟아지는 밤이 인상적이었어요.",
-    "price": 180000,
-    "image": "https://source.unsplash.com/featured/?cottage",
-    "recommended": true
-  },
-  {
-    "location": "강릉, 대한민국",
-    "description": "탁 트인 바다가 보이는 숙소",
-    "date": "2025-06-01",
-    "review": "바다 전망이 너무 아름다웠어요!",
-    "price": 130000,
-    "image": "https://source.unsplash.com/featured/?ocean",
-    "recommended": false
-  },
-  {
-    "location": "대구, 대한민국",
-    "description": "도심 속 편안한 휴식처",
-    "date": "2025-07-15",
-    "review": "침대가 푹신해서 꿀잠 잤어요.",
-    "price": 90000,
-    "image": "https://source.unsplash.com/featured/?city",
-    "recommended": true
-  },
-  {
-    "location": "전주, 대한민국",
-    "description": "전통 한옥스테이",
-    "date": "2025-08-05",
-    "review": "한옥 감성이 가득한 숙소였습니다.",
-    "price": 110000,
-    "image": "https://source.unsplash.com/featured/?hanok",
-    "recommended": true
-  },
-  {
-    "location": "속초, 대한민국",
-    "description": "해변과 가까운 아늑한 펜션",
-    "date": "2025-09-20",
-    "review": "조용하고 한적한 분위기가 너무 좋았어요.",
-    "price": 140000,
-    "image": "https://source.unsplash.com/featured/?resort",
-    "recommended": false
-  },
-  {
-    "location": "광주, 대한민국",
-    "description": "도심과 가까운 깨끗한 숙소",
-    "date": "2025-10-12",
-    "review": "가격 대비 만족도가 높아요!",
-    "price": 80000,
-    "image": "https://source.unsplash.com/featured/?apartment",
-    "recommended": true
-  },
-  {
-    "location": "인천, 대한민국",
-    "description": "공항 근처 모던한 호텔",
-    "date": "2025-11-03",
-    "review": "비행기 타기 전날 묵기에 딱 좋아요.",
-    "price": 100000,
-    "image": "https://source.unsplash.com/featured/?hotel",
-    "recommended": true
-  },
-  {
-    "location": "남해, 대한민국",
-    "description": "힐링이 가능한 자연 속 펜션",
-    "date": "2025-12-25",
-    "review": "공기가 맑고 너무 평화로웠어요.",
-    "price": 160000,
-    "image": "https://source.unsplash.com/featured/?nature",
-    "recommended": false
-  },
-  {
     "location": "경주, 대한민국",
     "description": "천년 고도의 전통적인 한옥",
     "date": "2025-04-05",
     "review": "경주의 역사적인 분위기를 제대로 느낄 수 있었어요.",
     "price": 130000,
-    "image": "https://source.unsplash.com/featured/?traditional",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -104,7 +14,7 @@
     "date": "2025-06-18",
     "review": "바다를 바라보며 커피 한잔, 최고였어요!",
     "price": 170000,
-    "image": "https://source.unsplash.com/featured/?seaview",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -113,7 +23,7 @@
     "date": "2025-05-22",
     "review": "자연 속에서 힐링할 수 있는 공간이었어요.",
     "price": 120000,
-    "image": "https://source.unsplash.com/featured/?lake",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -122,7 +32,7 @@
     "date": "2025-09-07",
     "review": "교통도 편리하고 주변 관광하기 좋아요.",
     "price": 95000,
-    "image": "https://source.unsplash.com/featured/?modern",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -131,7 +41,7 @@
     "date": "2025-10-25",
     "review": "전망이 좋고 해산물도 맛있어요!",
     "price": 110000,
-    "image": "https://source.unsplash.com/featured/?port",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -140,7 +50,7 @@
     "date": "2025-07-15",
     "review": "위치가 좋아서 여행하기 편했어요.",
     "price": 125000,
-    "image": "https://source.unsplash.com/featured/?river",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -149,7 +59,7 @@
     "date": "2025-12-02",
     "review": "눈 덮인 풍경이 너무 아름다웠어요!",
     "price": 145000,
-    "image": "https://source.unsplash.com/featured/?mountain",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -158,7 +68,7 @@
     "date": "2025-11-14",
     "review": "해돋이 보기에 완벽한 위치!",
     "price": 98000,
-    "image": "https://source.unsplash.com/featured/?sunrise",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -167,7 +77,7 @@
     "date": "2025-08-10",
     "review": "조용하고 깨끗한 숙소였어요.",
     "price": 155000,
-    "image": "https://source.unsplash.com/featured/?resort",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -176,7 +86,7 @@
     "date": "2025-10-01",
     "review": "너무 조용하고 분위기 있는 곳이었어요.",
     "price": 135000,
-    "image": "https://source.unsplash.com/featured/?villa",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -185,7 +95,7 @@
     "date": "2025-09-18",
     "review": "가격 대비 가성비가 좋은 곳이었어요.",
     "price": 75000,
-    "image": "https://source.unsplash.com/featured/?cheap",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -194,7 +104,7 @@
     "date": "2025-07-30",
     "review": "서퍼들에게 강력 추천합니다!",
     "price": 160000,
-    "image": "https://source.unsplash.com/featured/?surfing",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -203,7 +113,7 @@
     "date": "2025-06-11",
     "review": "고즈넉한 분위기가 너무 좋았어요.",
     "price": 115000,
-    "image": "https://source.unsplash.com/featured/?heritage",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -212,7 +122,7 @@
     "date": "2025-05-29",
     "review": "위치도 좋고 편의시설이 많아요.",
     "price": 89000,
-    "image": "https://source.unsplash.com/featured/?cityscape",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -221,7 +131,7 @@
     "date": "2025-08-22",
     "review": "조용히 쉬기에 딱 좋은 곳!",
     "price": 250000,
-    "image": "https://source.unsplash.com/featured/?poolvilla",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -230,7 +140,7 @@
     "date": "2025-09-15",
     "review": "공기가 너무 맑고 힐링되는 곳이었어요.",
     "price": 140000,
-    "image": "https://source.unsplash.com/featured/?forest",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -239,7 +149,7 @@
     "date": "2025-06-25",
     "review": "깔끔한 인테리어가 마음에 들었어요.",
     "price": 102000,
-    "image": "https://source.unsplash.com/featured/?hotelroom",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -248,7 +158,7 @@
     "date": "2025-07-05",
     "review": "레트로 감성이 가득한 곳이에요.",
     "price": 98000,
-    "image": "https://source.unsplash.com/featured/?harbor",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   },
   {
@@ -257,7 +167,7 @@
     "date": "2025-10-08",
     "review": "교통이 편리하고 조용한 곳이에요.",
     "price": 180000,
-    "image": "https://source.unsplash.com/featured/?luxury",
+    "image": "https://picsum.photos/250/250",
     "recommended": true
   },
   {
@@ -266,7 +176,7 @@
     "date": "2025-11-12",
     "review": "전통적인 분위기가 멋진 곳이었어요.",
     "price": 99000,
-    "image": "https://source.unsplash.com/featured/?guesthouse",
+    "image": "https://picsum.photos/250/250",
     "recommended": false
   }
 ]
