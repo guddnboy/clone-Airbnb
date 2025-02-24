@@ -5,11 +5,11 @@ import LodgingList from '../components/LodgingList';
 
 function HomePage() {
   return (
-    <div>
+    <>
       <Header />
       <LodgingList />
       <Footer />
-    </div>
+    </>
   );
 }
 
