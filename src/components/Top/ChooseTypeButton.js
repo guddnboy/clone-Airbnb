@@ -1,4 +1,4 @@
-import React, { use, useEffect } from 'react';
+import React from 'react';
 import { useState } from 'react';
 
 function ChooseTypeButton() {
@@ -20,7 +20,7 @@ function ChooseTypeButton() {
   };
 
   return (
-    <div className='flex items-center justify-center w-64'>
+    <div className='flex items-center justify-center w-64 pl-40'>
       <div className='flex w-14 h-10 justify-center'>
         <button
           className={`w-full h-full hover:bg-gray-100 hover:rounded-2xl ${isTry ? 'text-gray-500' : 'text-black'}`}
