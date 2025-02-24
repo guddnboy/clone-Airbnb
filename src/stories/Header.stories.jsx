@@ -1,7 +1,7 @@
-import TopNavigator from '../components/TopNavigator';
+import Header from '../components/Header';
 
 const meta = {
-  component: TopNavigator,
+  component: Header,
 };
 
 export default meta;

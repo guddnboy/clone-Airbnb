@@ -1,12 +1,12 @@
 import React from 'react';
-import TopNavigator from '../components/TopNavigator';
+import Header from '../components/Header';
 import Footer from '../components/Footer';
 import LodgingList from '../components/LodgingList';
 
 function HomePage() {
   return (
     <div>
-      <TopNavigator />
+      <Header />
       <LodgingList />
       <Footer />
     </div>
