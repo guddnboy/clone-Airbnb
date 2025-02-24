@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Airbnb';
+  src: url(./fonts/AirbnbCereal_W_Md.otf);
+}
+
+html,
+header,
+body,
+footer,
+div {
+  font-family: 'Airbnb';
+}
