@@ -5,7 +5,7 @@ import SearchButton from './SearchButton';
 
 function Header() {
   return (
-    <div className='flex flex-col w-full'>
+    <div className='flex flex-col w-full h-48 border-b'>
       <div className='flex items-center justify-between py-4 px-12'>
         <div className='flex w-32 h-16 items-center'>
           <img
