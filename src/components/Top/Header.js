@@ -1,7 +1,7 @@
 import React from 'react';
-import CategoryFilter from '../CategoryFilter';
 import ChooseTypeButton from './ChooseTypeButton';
 import MyPageButton from './MyPageButton';
+import SearchButton from './SearchButton';
 
 function Header() {
   return (
@@ -19,7 +19,7 @@ function Header() {
         </div>
         <MyPageButton />
       </div>
-      <CategoryFilter />
+      <SearchButton />
     </div>
   );
 }
