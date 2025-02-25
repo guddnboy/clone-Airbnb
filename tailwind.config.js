@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./src/**/*.{js,jsx}'],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        airbnb: '#FF5A5F',
+      },
+    },
   },
   plugins: [],
 };
