@@ -35,7 +35,7 @@ function SearchButton() {
               <button className='w-16 flex text-xs'>여행자</button>
               <div className='text-sm text-gray-400'>게스트 추가</div>
             </div>
-            <div className='flex items-center size-12 rounded-full mr-3 bg-airbnb text-white justify-center transition hover:brightness-90'>
+            <div className='flex items-center size-12 rounded-full mr-3 bg-airbnb-secondary text-white justify-center transition hover:brightness-90'>
               <img src='/img/search.png' className='size-4' alt='검색' />
             </div>
           </div>
