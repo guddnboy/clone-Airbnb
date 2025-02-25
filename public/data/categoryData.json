@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "name": "캠핑장",
+      "img": "https://a0.muscache.com/pictures/ca25c7f3-0d1f-432b-9efa-b9f5dc6d8770.jpg"
+    },
+    {
+      "name": "컬처 아이콘",
+      "img": "https://a0.muscache.com/im/pictures/mediaverse/category_icon/original/3e5243c8-4d15-4c6b-97e3-7ba2bb7bb880.png"
+    },
+    {
+      "name": "한적한 시골",
+      "img": "https://a0.muscache.com/pictures/6ad4bd95-f086-437d-97e3-14d12155ddfe.jpg"
+    },
+    {
+      "name": "최고의 전망",
+      "img": "https://a0.muscache.com/pictures/3b1eb541-46d9-4bef-abc4-c37d77e3c21b.jpg"
+    },
+    {
+      "name": "상징적 도시",
+      "img": "https://a0.muscache.com/pictures/ed8b9e47-609b-44c2-9768-33e6a22eccb2.jpg"
+    },
+    {
+      "name": "풍차",
+      "img": "https://a0.muscache.com/pictures/5cdb8451-8f75-4c5f-a17d-33ee228e3db8.jpg"
+    },
+    {
+      "name": "한옥",
+      "img": "https://a0.muscache.com/pictures/51f5cf64-5821-400c-8033-8a10c7787d69.jpg"
+    }
+  ]
+}
