@@ -1,17 +1,11 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 import Header from '../components/Top/Header';
-import Footer from '../components/Footer';
-import LodgingList from '../components/LodgingList';
-import CategoryFilter from '../components/CategoryFilter';
 
 function HomePage() {
   return (
-    <>
+    <Fragment>
       <Header />
-      <CategoryFilter />
-      <LodgingList />
-      <Footer />
-    </>
+    </Fragment>
   );
 }
 
