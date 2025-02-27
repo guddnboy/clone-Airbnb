@@ -1,7 +1,7 @@
 import React from 'react';
 import ChooseTypeButton from './ChooseTypeButton';
 import MyPageButton from './MyPageButton';
-import SearchButton from './SearchButton';
+import InputButton from './InputButton';
 
 function Header() {
   return (
@@ -19,7 +19,7 @@ function Header() {
         </div>
         <MyPageButton />
       </div>
-      <SearchButton />
+      <InputButton />
     </div>
   );
 }
